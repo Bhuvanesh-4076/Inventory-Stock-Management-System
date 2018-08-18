@@ -12,6 +12,16 @@ Swing
 Hibernate
 
 
+# Snaps
+
+![home](https://user-images.githubusercontent.com/26670093/44302942-3021cc80-a351-11e8-8fa8-dee38a0f5698.png)
+
+![login page](https://user-images.githubusercontent.com/26670093/44302943-3021cc80-a351-11e8-909d-f065ee6adaa4.png)
+
+![management page](https://user-images.githubusercontent.com/26670093/44302944-30ba6300-a351-11e8-954c-ff925466c50a.png)
+
+
+
 # How to run the application
 
 Clone/Download the project and import into your IDE
